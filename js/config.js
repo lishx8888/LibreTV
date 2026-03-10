@@ -114,6 +114,55 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
+    // 从 sites_export_2026-03-10.json 添加的站点
+    haohua: {
+        api: 'https://hhzyapi.com/api.php/provide/vod/',
+        name: '豪华资源'
+    },
+    piaoling: {
+        api: 'https://p2100.net/api.php/provide/vod/',
+        name: '飘零资源'
+    },
+    maotai: {
+        api: 'https://caiji.maotaizy.cc/api.php/provide/vod/',
+        name: '茅台资源'
+    },
+    zyku1080: {
+        api: 'https://api.1080zyku.com/inc/api_mac10.php/',
+        name: '1080资源库'
+    },
+    wolong2: {
+        api: 'https://collect.wolongzyw.com/api.php/provide/vod/',
+        name: '卧龙资源2'
+    },
+    subo: {
+        api: 'https://subocaiji.com/api.php/provide/vod/',
+        name: '速播资源'
+    },
+    bubugao: {
+        api: 'https://api.yparse.com/api/json',
+        name: '步步高资源'
+    },
+    uku: {
+        api: 'https://api.ukuapi.com/api.php/provide/vod/',
+        name: 'U酷资源'
+    },
+    ckzy: {
+        api: 'https://ckzy.me/api.php/provide/vod/',
+        name: 'CK资源'
+    },
+    hongniu: {
+        api: 'https://www.hongniuzy2.com/api.php/provide/vod/',
+        name: '红牛资源'
+    },
+    xinlang: {
+        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod/',
+        name: '新浪点播'
+    },
+    kuaiche: {
+        api: 'https://caiji.kuaichezy.org/api.php/provide/vod/',
+        name: '快车资源'
+    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
