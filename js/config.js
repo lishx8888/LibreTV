@@ -25,7 +25,7 @@ const API_SITES = {
     dyttzy: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod',
         name: '电影天堂资源',
-        detail: 'http://caiji.dyttzyapi.com', 
+        detail: 'http://caiji.dyttzyapi.com',
     },
     ruyi: {
         api: 'https://cj.rycjapi.com/api.php/provide/vod',
@@ -46,12 +46,12 @@ const API_SITES = {
     ffzy: {
         api: 'http://ffzy5.tv/api.php/provide/vod',
         name: '非凡影视',
-        detail: 'http://ffzy5.tv', 
+        detail: 'http://ffzy5.tv',
     },
     heimuer: {
         api: 'https://json.heimuer.xyz/api.php/provide/vod',
         name: '黑木耳',
-        detail: 'https://heimuer.tv', 
+        detail: 'https://heimuer.tv',
     },
     zy360: {
         api: 'https://360zy.com/api.php/provide/vod',
@@ -64,7 +64,7 @@ const API_SITES = {
     wolong: {
         api: 'https://wolongzyw.com/api.php/provide/vod',
         name: '卧龙资源',
-    }, 
+    },
     hwba: {
         api: 'https://cjhwba.com/api.php/provide/vod',
         name: '华为吧资源',
@@ -72,7 +72,7 @@ const API_SITES = {
     jisu: {
         api: 'https://jszyapi.com/api.php/provide/vod',
         name: '极速资源',
-        detail: 'https://jszyapi.com', 
+        detail: 'https://jszyapi.com',
     },
     dbzy: {
         api: 'https://dbzy.tv/api.php/provide/vod',
@@ -114,61 +114,11 @@ const API_SITES = {
         api: 'https://cj.lziapi.com/api.php/provide/vod/',
         name: '量子资源站'
     },
-    // 从 sites_export_2026-03-10.json 添加的站点
-    haohua: {
-        api: 'https://hhzyapi.com/api.php/provide/vod/',
-        name: '豪华资源'
-    },
-    piaoling: {
-        api: 'https://p2100.net/api.php/provide/vod/',
-        name: '飘零资源'
-    },
-    maotai: {
-        api: 'https://caiji.maotaizy.cc/api.php/provide/vod/',
-        name: '茅台资源'
-    },
-    zyku1080: {
-        api: 'https://api.1080zyku.com/inc/api_mac10.php/',
-        name: '1080资源库'
-    },
-    wolong2: {
-        api: 'https://collect.wolongzyw.com/api.php/provide/vod/',
-        name: '卧龙资源2'
-    },
-    subo: {
-        api: 'https://subocaiji.com/api.php/provide/vod/',
-        name: '速播资源'
-    },
-    bubugao: {
-        api: 'https://api.yparse.com/api/json',
-        name: '步步高资源'
-    },
-    uku: {
-        api: 'https://api.ukuapi.com/api.php/provide/vod/',
-        name: 'U酷资源'
-    },
-    ckzy: {
-        api: 'https://ckzy.me/api.php/provide/vod/',
-        name: 'CK资源'
-    },
-    hongniu: {
-        api: 'https://www.hongniuzy2.com/api.php/provide/vod/',
-        name: '红牛资源'
-    },
-    xinlang: {
-        api: 'https://api.xinlangapi.com/xinlangapi.php/provide/vod/',
-        name: '新浪点播'
-    },
-    kuaiche: {
-        api: 'https://caiji.kuaichezy.org/api.php/provide/vod/',
-        name: '快车资源'
-    },
     testSource: {
         api: 'https://www.example.com/api.php/provide/vod',
         name: '空内容测试源',
         adult: true
     },
-    //ARCHIVE https://telegra.ph/APIs-08-12
 };
 
 // 定义合并方法
